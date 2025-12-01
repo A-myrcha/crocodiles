@@ -3,6 +3,7 @@ body {
    color:#3B3F0E;
     font-family: "Mulish", sans-serif;
   font-optical-sizing: 1.250rem;
+  font-weight:300
 }
 
 section, header {
@@ -55,5 +56,29 @@ blockquote{
 
 
 }
+a:hover { colour:#ACA632}
+
+.responsivenav {
+    background: #ECECE4;
+    padding:10px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+#logo {
+    font-size: 2rem;
+    color:#851D1A;
+    
+
+
+
+
+
+}
+
+
+
+
 
 
