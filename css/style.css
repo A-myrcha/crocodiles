@@ -76,7 +76,22 @@ a:hover { colour:#ACA632}
 
 
 }
+.connections svg {
+    margin:1em auto;
+    padding-right: 10px;
 
+}
+
+    .connections a:hover svg path{
+        fill:#ACA632;
+        transition: all 0.3s ease-in-out;
+}
+footer .connections a:hover svg path|{
+    fill: #D8C385;
+    transition:all 0.3s ease-in-out;
+
+
+}
 
 
 
