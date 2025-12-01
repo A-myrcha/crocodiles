@@ -131,7 +131,7 @@ footer a:hover {
 }
 .gridimage {
     display: grid;
-    column-gap: 10px;
+    column-gap: 20px;
     grid-template-columns:repeat(auto-fill, minmax(300px,1fr));
 
 
